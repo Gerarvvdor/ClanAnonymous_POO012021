@@ -1,0 +1,16 @@
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\introduction_to_github.exe
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\introduction_to_github.deps.json
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\introduction_to_github.runtimeconfig.json
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\introduction_to_github.runtimeconfig.dev.json
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\introduction_to_github.dll
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\ref\introduction_to_github.dll
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\bin\Debug\net5.0\introduction_to_github.pdb
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.csprojAssemblyReference.cache
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.AssemblyInfoInputs.cache
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.AssemblyInfo.cs
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.dll
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\ref\introduction_to_github.dll
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.pdb
+C:\Users\Gerar\Documents\UCA\2do año\Ciclo 01-2021\POO\ClanAnonymous_POO012021\introduction_to_github\obj\Debug\net5.0\introduction_to_github.genruntimeconfig.cache
