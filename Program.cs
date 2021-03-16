@@ -14,11 +14,11 @@ namespace example1
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a, b)} ");
+            Console.WriteLine($"Adding {a} - {b} equals {AddNumbers(a, b)} ");
         }
         public static int AddNumbers(int a, int b)
         {
-            return a + b; 
+            return a - b; 
         }
     }
     
