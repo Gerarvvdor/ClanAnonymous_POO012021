@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gerar\\Documents\\UCA\\2do año\\Ciclo 01-2021\\POO\\ClanAnonymous_POO012021\\introduction_to_github\\introduction_to_github.csproj": {}
+    "C:\\Users\\Alejandra Vega\\Desktop\\tarea git\\ClanAnonymous_POO012021\\introduction_to_github.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gerar\\Documents\\UCA\\2do año\\Ciclo 01-2021\\POO\\ClanAnonymous_POO012021\\introduction_to_github\\introduction_to_github.csproj": {
+    "C:\\Users\\Alejandra Vega\\Desktop\\tarea git\\ClanAnonymous_POO012021\\introduction_to_github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerar\\Documents\\UCA\\2do año\\Ciclo 01-2021\\POO\\ClanAnonymous_POO012021\\introduction_to_github\\introduction_to_github.csproj",
+        "projectUniqueName": "C:\\Users\\Alejandra Vega\\Desktop\\tarea git\\ClanAnonymous_POO012021\\introduction_to_github.csproj",
         "projectName": "introduction_to_github",
-        "projectPath": "C:\\Users\\Gerar\\Documents\\UCA\\2do año\\Ciclo 01-2021\\POO\\ClanAnonymous_POO012021\\introduction_to_github\\introduction_to_github.csproj",
-        "packagesPath": "C:\\Users\\Gerar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerar\\Documents\\UCA\\2do año\\Ciclo 01-2021\\POO\\ClanAnonymous_POO012021\\introduction_to_github\\obj\\",
+        "projectPath": "C:\\Users\\Alejandra Vega\\Desktop\\tarea git\\ClanAnonymous_POO012021\\introduction_to_github.csproj",
+        "packagesPath": "C:\\Users\\Alejandra Vega\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandra Vega\\Desktop\\tarea git\\ClanAnonymous_POO012021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gerar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alejandra Vega\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
